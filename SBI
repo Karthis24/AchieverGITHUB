@@ -3,5 +3,10 @@ second line
 third line
 fourth line
 fifthline
+<<<<<<< HEAD
 sixth line
 7th line
+=======
+Sixth line
+Seventh Line
+>>>>>>> cost
